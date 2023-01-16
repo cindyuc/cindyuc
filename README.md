@@ -7,7 +7,7 @@
 Welcome to my page! I am a MSCS student at [Georgia Tech](https://www.gatech.edu), USA. I am focusing on Compputer System.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyuc&exclude_repo=CSE6643-sp22,cs7641-2021Fall,Deep-Learning_Coursera&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lsccrrw4q-cindyuc.vercel.app/api/top-langs/?username=cindyuc&exclude_repo=CSE6643-sp22,cs7641-2021Fall,Deep-Learning_Coursera,github-readme-stats,CS7641-ML,sp21-s42&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cindyuc/cindyuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
